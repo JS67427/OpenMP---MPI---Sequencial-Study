@@ -1,3 +1,8 @@
+// --------------------------- /*
+    ESTE PROGRAMA FOI APENAS UM SIMPLES TESTE! NÃO É O PROGRAMA REALMENTE UTILIZADO!!
+
+// ----------------------------*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <mpi.h>
